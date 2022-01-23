@@ -1,0 +1,10 @@
+C:\Users\Nikolay\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.Form1.resources
+C:\Users\Nikolay\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\Nikolay\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\Nikolay\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Release\Alien Invasion.exe.config
+C:\Users\Nikolay\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Release\Alien Invasion.exe
+C:\Users\Nikolay\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Release\Alien Invasion.pdb
+C:\Users\Nikolay\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Release\Alien Invasion.exe
+C:\Users\Nikolay\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Release\Alien Invasion.pdb
